@@ -1,1 +1,10 @@
-# laxmi_krvt.github.io
+# Data Scientist
+
+### Education
+
+### Work Experience
+AI intern @ Infosys
+-
+-
+### Projects
+

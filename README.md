@@ -4,7 +4,7 @@
 
 ## Education
 - B-tech in Electronics and Communication | Govt. Model Engineering College (_ongoing_)								       		
-- Physics,Chemistry,Math,CS	| Navy Children School (_may 2020_)	 			        		
+- Physics,Chemistry,Math,CS	| Navy Children School (_may 2020_)	 			        	
 
 
 ## Work Experience
